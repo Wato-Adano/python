@@ -1,20 +1,20 @@
-Addition
+# Adgitdition
 y = 5
 x = 20
 print(y + x)
 
-Subration
+# Subration
 z =50
 r =30
 print (z-r)
 
-muitipcation
+# muitipcation
 
 t =5
 s =6
 print(t * s)
 
-Division
+# Division
 d =10
 f = 5
 print(d/f)
